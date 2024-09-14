@@ -1,0 +1,47 @@
+[
+  {
+    "name": "War Game",
+    "desc": "Native IOS app built using Swift.",
+    "image": "wargame",
+    "category": "ios",
+    "links": {
+      "code": "https://github.com/VenkataS1/War-Game"
+    }
+  },
+  {
+    "name": "Hospital Management",
+    "desc": "Full-Stack hospital management webpage built using Angular.js, HTML, SCSS, Javascript, and JSON servers",
+    "image": "instagrammern",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/VenkataS1/Hospital-Management"
+    }
+  },
+  {
+    "name": "Wordle Solver",
+    "desc": "Algorithm to solve Wordle in a few guesses, built in Java.",
+    "image": "flipkartmern",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/VenkataS1/Wordle-Solver"
+    }
+  },
+  {
+    "name": "Contact Manager",
+    "desc": "Software that allows a user to store, organize, and search phone numbers, addresses, dates, notes, lists, and more.",
+    "image": "resumegen",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/VenkataS1/Contact-Manager"
+    }
+  },
+  {
+    "name": "Real Estate Analyzer MERN",
+    "desc": "Full-stack web application for real estate listings built using the MERN stack allowing browsing, searching, and filtering property listings.",
+    "image": "templeweb",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/VenkataS1/Real-Estate-Analyzer"
+    }
+  }
+]
